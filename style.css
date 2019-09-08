@@ -302,6 +302,10 @@ img {
 	left: 0;
 }
 
+a {
+	color: #272727;
+}
+
 @media (max-width: 1100px) {
 	body {
 		width: 100%;
