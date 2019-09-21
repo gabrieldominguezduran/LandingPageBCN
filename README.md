@@ -2,6 +2,6 @@
 
 Basic landing page using HTML5, CSS3, and TweenMax JS plug in  
 
-## See it:
+### See it here:
 
 [Barcelona](https://gabrieldominguezduran.github.io/LandingPageBCN/)
