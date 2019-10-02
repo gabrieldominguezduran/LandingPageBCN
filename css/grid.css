@@ -2,8 +2,10 @@ html,
 body {
   margin: 0;
   padding: 0;
+  width: 0;
   width: 100%;
-  height: auto;
+  height: 100vh;
+  overflow-x: hidden;
 }
 
 .menu2 {
@@ -47,9 +49,6 @@ li a:hover {
   z-index: 3;
 }
 
-body {
-  overflow-x: hidden;
-}
 
 .nav-links {
   position: absolute;
@@ -173,5 +172,5 @@ footer {
 }
 
 footer p {
-  font-size: 2rem;
+  font-size: 1rem;
 }

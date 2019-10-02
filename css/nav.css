@@ -4,6 +4,8 @@
 a {
   color: #2c2a2a;
   text-decoration: none;
+  font-family: 'Poppins',
+    sans-serif;
 }
 
 li a:hover {
