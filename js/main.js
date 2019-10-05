@@ -1,11 +1,11 @@
 TweenMax.from('.logo', 1.6, {
-	delay: 6.4,
+	delay: 6.5,
 	opacity: 0,
 	y: 30,
 	ease: Expo.easeInOut
 });
 
-TweenMax.from('.menu', 1.6, {
+TweenMax.from('.title', 1.6, {
 	delay: 6.5,
 	opacity: 0,
 	y: 30,
@@ -14,19 +14,6 @@ TweenMax.from('.menu', 1.6, {
 
 TweenMax.from('.heading', 1.6, {
 	delay: 6.6,
-	opacity: 0,
-	y: 30,
-	ease: Expo.easeInOut
-});
-TweenMax.from('.logo2', 1.6, {
-	delay: 1,
-	opacity: 0,
-	y: 30,
-	ease: Expo.easeInOut
-});
-
-TweenMax.from('.menu2', 1.6, {
-	delay: 1,
 	opacity: 0,
 	y: 30,
 	ease: Expo.easeInOut
